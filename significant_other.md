@@ -1,9 +1,12 @@
 Significant Other
+=================
 
+<!---
 % (c) Copyright 2010 Jeff Stautz. All Rights Reserved. 
 % First draft 2010-03-22
+--->
 
-A glandular thing. Chemicals mixed wrong in his blood. When I met him, he was 6'9'', then 6'10'', then 7 feet. I'd always liked them big--thickness in the neck and arms, fleshy baggage around the middle--but Bodie gave me a new sense of scale. He kept gaining weight: two-sixty, two-eighty, three hundred pounds.
+A glandular thing. Chemicals mixed wrong in his blood. When I met him, he was 6'9'', then 6'10'', then 7 feet. I'd always liked them big---thickness in the neck and arms, fleshy baggage around the middle---but Bodie gave me a new sense of scale. He kept gaining weight: two-sixty, two-eighty, three hundred pounds.
 
 He was a nightclub bouncer and had a musty apartment in Cabbagetown. Our first night together, he poured chocolate syrup in a stripe down my belly and I was sold. By morning he'd grown too big for the bed.
 
